@@ -7,6 +7,6 @@ I've been wanting to dive into low level programming for a while. I'm quite fami
 * The features Rust grants are very nice, but not that big of a deal.
 
 ### What I will do in the future:
-* Lost more lower level programming. Not only Rust, but also C and C++.
+* A lot more lower level programming. Not only Rust, but also C and C++.
 * Try to use less high level logic.
 * Figure out pointers once and for all.
